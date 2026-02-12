@@ -1,0 +1,4 @@
+Artificial Intelligence is the simulation of human intelligence in machines.
+Machine Learning is a subset of AI that allows systems to learn from data.
+Deep Learning uses neural networks with many layers.
+Python is widely used in AI and data science.
