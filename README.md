@@ -34,8 +34,3 @@ python app.py
 	•	Document-based tutoring
 	•	Study assistant
 
-
-
-⸻
-
-If you want, I can also give you a one-paragraph project description for your report or proposal using this stack.
